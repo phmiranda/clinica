@@ -1,6 +1,12 @@
-assets/*
-!assets/.gitignore
-protected/runtime/*
-!protected/runtime/.gitignore
-protected/data/*.db
-themes/classic/views/
+# comentários.
+.idea/
+nbproject/
+.vscode/
+
+# comentários.
+composer.lock
+package-lock.json
+
+# comentários.
+node_modules/
+vendor/
