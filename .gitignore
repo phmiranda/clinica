@@ -4,9 +4,10 @@ nbproject/
 .vscode/
 
 # comentários.
-composer.lock
-package-lock.json
+public/default.php
 
 # comentários.
+composer.lock
+package-lock.json
 node_modules/
 vendor/
